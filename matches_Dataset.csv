@@ -1,0 +1,72 @@
+eliminatoreliminator,team1,neutralvenue,balls_per_over,venue,season,date,team2,player_of_match,winner_wickets,winner_runs,city,winner,match_number,toss_winner,toss_decision,matchId,match_type
+,Royal Challengers Bengaluru,FALSE,6,MA Chidambaram Stadium,2024,22-03-2024,Chennai Super Kings,Mustafizur Rahman,6,0,Chennai,Chennai Super Kings,1,Royal Challengers Bengaluru,bat,1422119,League
+,Delhi Capitals,FALSE,6,Maharaja Yadavindra Singh International Cricket Stadium,2024,23-03-2024,Punjab Kings,SM Curran,4,0,Mohali,Punjab Kings,2,Punjab Kings,field,1422120,League
+,Kolkata Knight Riders,FALSE,6,Eden Gardens,2024,23-03-2024,Sunrisers Hyderabad,AD Russell,0,4,Kolkata,Kolkata Knight Riders,3,Sunrisers Hyderabad,field,1422121,League
+,Rajasthan Royals,FALSE,6,Sawai Mansingh Stadium,2024,24-03-2024,Lucknow Super Giants,SV Samson,0,20,Jaipur,Rajasthan Royals,4,Rajasthan Royals,bat,1422122,League
+,Gujarat Titans,FALSE,6,Narendra Modi Stadium,2024,24-03-2024,Mumbai Indians,B Sai Sudharsan,0,6,Ahmedabad,Gujarat Titans,5,Mumbai Indians,field,1422123,League
+,Punjab Kings,FALSE,6,M Chinnaswamy Stadium,2024,25-03-2024,Royal Challengers Bengaluru,V Kohli,4,0,Bengaluru,Royal Challengers Bengaluru,6,Royal Challengers Bengaluru,field,1422124,League
+,Chennai Super Kings,FALSE,6,MA Chidambaram Stadium,2024,26-03-2024,Gujarat Titans,S Dube,0,63,Chennai,Chennai Super Kings,7,Gujarat Titans,field,1422125,League
+,Sunrisers Hyderabad,FALSE,6,Rajiv Gandhi International Stadium,2024,27-03-2024,Mumbai Indians,Abhishek Sharma,0,31,Hyderabad,Sunrisers Hyderabad,8,Mumbai Indians,field,1422126,League
+,Rajasthan Royals,FALSE,6,Sawai Mansingh Stadium,2024,28-03-2024,Delhi Capitals,R Parag,0,12,Jaipur,Rajasthan Royals,9,Delhi Capitals,field,1422127,League
+,Royal Challengers Bengaluru,FALSE,6,M Chinnaswamy Stadium,2024,29-03-2024,Kolkata Knight Riders,SP Narine,7,0,Bengaluru,Kolkata Knight Riders,10,Kolkata Knight Riders,field,1422128,League
+,Lucknow Super Giants,FALSE,6,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2024,30-03-2024,Punjab Kings,MP Yadav,0,21,Lucknow,Lucknow Super Giants,11,Lucknow Super Giants,bat,1422129,League
+,Sunrisers Hyderabad,FALSE,6,Narendra Modi Stadium,2024,31-03-2024,Gujarat Titans,MM Sharma,7,0,Ahmedabad,Gujarat Titans,12,Sunrisers Hyderabad,bat,1422130,League
+,Delhi Capitals,FALSE,6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2024,31-03-2024,Chennai Super Kings,KK Ahmed,0,20,Visakhapatnam,Delhi Capitals,13,Delhi Capitals,bat,1422131,League
+,Mumbai Indians,FALSE,6,Wankhede Stadium,2024,01-04-2024,Rajasthan Royals,TA Boult,6,0,Mumbai,Rajasthan Royals,14,Rajasthan Royals,field,1422132,League
+,Lucknow Super Giants,FALSE,6,M Chinnaswamy Stadium,2024,02-04-2024,Royal Challengers Bengaluru,MP Yadav,0,28,Bengaluru,Lucknow Super Giants,15,Royal Challengers Bengaluru,field,1422133,League
+,Kolkata Knight Riders,FALSE,6,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2024,03-04-2024,Delhi Capitals,SP Narine,0,106,Visakhapatnam,Kolkata Knight Riders,16,Kolkata Knight Riders,bat,1422134,League
+,Gujarat Titans,FALSE,6,Narendra Modi Stadium,2024,04-04-2024,Punjab Kings,Shashank Singh,3,0,Ahmedabad,Punjab Kings,17,Punjab Kings,field,1422135,League
+,Chennai Super Kings,FALSE,6,Rajiv Gandhi International Stadium,2024,05-04-2024,Sunrisers Hyderabad,Abhishek Sharma,6,0,Hyderabad,Sunrisers Hyderabad,18,Sunrisers Hyderabad,field,1422136,League
+,Royal Challengers Bengaluru,FALSE,6,Sawai Mansingh Stadium,2024,06-04-2024,Rajasthan Royals,JC Buttler,6,0,Jaipur,Rajasthan Royals,19,Rajasthan Royals,field,1422137,League
+,Mumbai Indians,FALSE,6,Wankhede Stadium,2024,07-04-2024,Delhi Capitals,R Shepherd,0,29,Mumbai,Mumbai Indians,20,Delhi Capitals,field,1422138,League
+,Lucknow Super Giants,FALSE,6,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2024,07-04-2024,Gujarat Titans,Yash Thakur,0,33,Lucknow,Lucknow Super Giants,21,Lucknow Super Giants,bat,1422139,League
+,Kolkata Knight Riders,FALSE,6,MA Chidambaram Stadium,2024,08-04-2024,Chennai Super Kings,RA Jadeja,7,0,Chennai,Chennai Super Kings,22,Chennai Super Kings,field,1426260,League
+,Sunrisers Hyderabad,FALSE,6,Maharaja Yadavindra Singh International Cricket Stadium,2024,09-04-2024,Punjab Kings,Nithish Kumar Reddy,0,2,Mohali,Sunrisers Hyderabad,23,Punjab Kings,field,1426261,League
+,Rajasthan Royals,FALSE,6,Sawai Mansingh Stadium,2024,10-04-2024,Gujarat Titans,Rashid Khan,3,0,Jaipur,Gujarat Titans,24,Gujarat Titans,field,1426262,League
+,Royal Challengers Bengaluru,FALSE,6,Wankhede Stadium,2024,11-04-2024,Mumbai Indians,JJ Bumrah,7,0,Mumbai,Mumbai Indians,25,Mumbai Indians,field,1426263,League
+,Lucknow Super Giants,FALSE,6,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2024,12-04-2024,Delhi Capitals,Kuldeep Yadav,6,0,Lucknow,Delhi Capitals,26,Lucknow Super Giants,bat,1426264,League
+,Punjab Kings,FALSE,6,Maharaja Yadavindra Singh International Cricket Stadium,2024,13-04-2024,Rajasthan Royals,SO Hetmyer,3,0,Mohali,Rajasthan Royals,27,Rajasthan Royals,field,1426265,League
+,Lucknow Super Giants,FALSE,6,Eden Gardens,2024,14-04-2024,Kolkata Knight Riders,PD Salt,8,0,Kolkata,Kolkata Knight Riders,28,Kolkata Knight Riders,field,1426266,League
+,Chennai Super Kings,FALSE,6,Wankhede Stadium,2024,14-04-2024,Mumbai Indians,M Pathirana,0,20,Mumbai,Chennai Super Kings,29,Mumbai Indians,field,1426267,League
+,Sunrisers Hyderabad,FALSE,6,M Chinnaswamy Stadium,2024,15-04-2024,Royal Challengers Bengaluru,TM Head,0,25,Bengaluru,Sunrisers Hyderabad,30,Royal Challengers Bengaluru,field,1426268,League
+,Kolkata Knight Riders,FALSE,6,Eden Gardens,2024,16-04-2024,Rajasthan Royals,JC Buttler,2,0,Kolkata,Rajasthan Royals,31,Rajasthan Royals,field,1426269,League
+,Gujarat Titans,FALSE,6,Narendra Modi Stadium,2024,17-04-2024,Delhi Capitals,RR Pant,6,0,Ahmedabad,Delhi Capitals,32,Delhi Capitals,field,1426270,League
+,Mumbai Indians,FALSE,6,Maharaja Yadavindra Singh International Cricket Stadium,2024,18-04-2024,Punjab Kings,JJ Bumrah,0,9,Mohali,Mumbai Indians,33,Punjab Kings,field,1426271,League
+,Chennai Super Kings,FALSE,6,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2024,19-04-2024,Lucknow Super Giants,KL Rahul,8,0,Lucknow,Lucknow Super Giants,34,Lucknow Super Giants,field,1426272,League
+,Sunrisers Hyderabad,FALSE,6,Arun Jaitley Stadium,2024,20-04-2024,Delhi Capitals,TM Head,0,67,Delhi,Sunrisers Hyderabad,35,Delhi Capitals,field,1426273,League
+,Kolkata Knight Riders,FALSE,6,Eden Gardens,2024,21-04-2024,Royal Challengers Bengaluru,AD Russell,0,1,Kolkata,Kolkata Knight Riders,36,Royal Challengers Bengaluru,field,1426274,League
+,Punjab Kings,FALSE,6,Maharaja Yadavindra Singh International Cricket Stadium,2024,21-04-2024,Gujarat Titans,R Sai Kishore,3,0,Mohali,Gujarat Titans,37,Punjab Kings,bat,1426275,League
+,Mumbai Indians,FALSE,6,Sawai Mansingh Stadium,2024,22-04-2024,Rajasthan Royals,Sandeep Sharma,9,0,Jaipur,Rajasthan Royals,38,Mumbai Indians,bat,1426276,League
+,Chennai Super Kings,FALSE,6,MA Chidambaram Stadium,2024,23-04-2024,Lucknow Super Giants,MP Stoinis,6,0,Chennai,Lucknow Super Giants,39,Lucknow Super Giants,field,1426277,League
+,Delhi Capitals,FALSE,6,Arun Jaitley Stadium,2024,24-04-2024,Gujarat Titans,RR Pant,0,4,Delhi,Delhi Capitals,40,Gujarat Titans,field,1426278,League
+,Royal Challengers Bengaluru,FALSE,6,Rajiv Gandhi International Stadium,2024,25-04-2024,Sunrisers Hyderabad,RM Patidar,0,35,Hyderabad,Royal Challengers Bengaluru,41,Royal Challengers Bengaluru,bat,1426279,League
+,Kolkata Knight Riders,FALSE,6,Eden Gardens,2024,26-04-2024,Punjab Kings,JM Bairstow,8,0,Kolkata,Punjab Kings,42,Punjab Kings,field,1426280,League
+,Delhi Capitals,FALSE,6,Arun Jaitley Stadium,2024,27-04-2024,Mumbai Indians,J Fraser-McGurk,0,10,Delhi,Delhi Capitals,43,Mumbai Indians,field,1426281,League
+,Lucknow Super Giants,FALSE,6,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2024,27-04-2024,Rajasthan Royals,SV Samson,7,0,Lucknow,Rajasthan Royals,44,Rajasthan Royals,field,1426282,League
+,Gujarat Titans,FALSE,6,Narendra Modi Stadium,2024,28-04-2024,Royal Challengers Bengaluru,WG Jacks,9,0,Ahmedabad,Royal Challengers Bengaluru,45,Royal Challengers Bengaluru,field,1426283,League
+,Chennai Super Kings,FALSE,6,MA Chidambaram Stadium,2024,28-04-2024,Sunrisers Hyderabad,RD Gaikwad,0,78,Chennai,Chennai Super Kings,46,Sunrisers Hyderabad,field,1426284,League
+,Delhi Capitals,FALSE,6,Eden Gardens,2024,29-04-2024,Kolkata Knight Riders,CV Varun,7,0,Kolkata,Kolkata Knight Riders,47,Delhi Capitals,bat,1426285,League
+,Mumbai Indians,FALSE,6,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2024,30-04-2024,Lucknow Super Giants,MP Stoinis,4,0,Lucknow,Lucknow Super Giants,48,Lucknow Super Giants,field,1426286,League
+,Chennai Super Kings,FALSE,6,MA Chidambaram Stadium,2024,01-05-2024,Punjab Kings,Harpreet Brar,7,0,Chennai,Punjab Kings,49,Punjab Kings,field,1426287,League
+,Sunrisers Hyderabad,FALSE,6,Rajiv Gandhi International Stadium,2024,02-05-2024,Rajasthan Royals,B Kumar,0,1,Hyderabad,Sunrisers Hyderabad,50,Sunrisers Hyderabad,bat,1426288,League
+,Kolkata Knight Riders,FALSE,6,Wankhede Stadium,2024,03-05-2024,Mumbai Indians,VR Iyer,0,24,Mumbai,Kolkata Knight Riders,51,Mumbai Indians,field,1426289,League
+,Gujarat Titans,FALSE,6,M Chinnaswamy Stadium,2024,04-05-2024,Royal Challengers Bengaluru,Mohammed Siraj,4,0,Bengaluru,Royal Challengers Bengaluru,52,Royal Challengers Bengaluru,field,1426290,League
+,Chennai Super Kings,FALSE,6,Himachal Pradesh Cricket Association Stadium,2024,05-05-2024,Punjab Kings,RA Jadeja,0,28,Dharamsala,Chennai Super Kings,53,Punjab Kings,field,1426291,League
+,Kolkata Knight Riders,FALSE,6,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2024,05-05-2024,Lucknow Super Giants,SP Narine,0,98,Lucknow,Kolkata Knight Riders,54,Lucknow Super Giants,field,1426292,League
+,Sunrisers Hyderabad,FALSE,6,Wankhede Stadium,2024,06-05-2024,Mumbai Indians,SA Yadav,7,0,Mumbai,Mumbai Indians,55,Mumbai Indians,field,1426293,League
+,Delhi Capitals,FALSE,6,Arun Jaitley Stadium,2024,07-05-2024,Rajasthan Royals,Kuldeep Yadav,0,20,Delhi,Delhi Capitals,56,Rajasthan Royals,field,1426294,League
+,Lucknow Super Giants,FALSE,6,Rajiv Gandhi International Stadium,2024,08-05-2024,Sunrisers Hyderabad,TM Head,10,0,Hyderabad,Sunrisers Hyderabad,57,Lucknow Super Giants,bat,1426295,League
+,Royal Challengers Bengaluru,FALSE,6,Himachal Pradesh Cricket Association Stadium,2024,09-05-2024,Punjab Kings,V Kohli,0,60,Dharamsala,Royal Challengers Bengaluru,58,Punjab Kings,field,1426296,League
+,Gujarat Titans,FALSE,6,Narendra Modi Stadium,2024,10-05-2024,Chennai Super Kings,Shubman Gill,0,35,Ahmedabad,Gujarat Titans,59,Chennai Super Kings,field,1426297,League
+,Kolkata Knight Riders,FALSE,6,Eden Gardens,2024,11-05-2024,Mumbai Indians,CV Varun,0,18,Kolkata,Kolkata Knight Riders,60,Mumbai Indians,field,1426298,League
+,Rajasthan Royals,FALSE,6,MA Chidambaram Stadium,2024,12-05-2024,Chennai Super Kings,Simarjeet Singh,5,0,Chennai,Chennai Super Kings,61,Rajasthan Royals,bat,1426299,League
+,Royal Challengers Bengaluru,FALSE,6,M Chinnaswamy Stadium,2024,12-05-2024,Delhi Capitals,C Green,0,47,Bengaluru,Royal Challengers Bengaluru,62,Delhi Capitals,field,1426300,League
+,Delhi Capitals,FALSE,6,Arun Jaitley Stadium,2024,14-05-2024,Lucknow Super Giants,I Sharma,0,19,Delhi,Delhi Capitals,64,Lucknow Super Giants,field,1426302,League
+,Rajasthan Royals,FALSE,6,Barsapara Cricket Stadium,2024,15-05-2024,Punjab Kings,SM Curran,5,0,Guwahati,Punjab Kings,65,Rajasthan Royals,bat,1426303,League
+,Lucknow Super Giants,FALSE,6,Wankhede Stadium,2024,17-05-2024,Mumbai Indians,N Pooran,0,18,Mumbai,Lucknow Super Giants,67,Mumbai Indians,field,1426305,League
+,Royal Challengers Bengaluru,FALSE,6,M Chinnaswamy Stadium,2024,18-05-2024,Chennai Super Kings,F du Plessis,0,27,Bengaluru,Royal Challengers Bengaluru,68,Chennai Super Kings,field,1426306,League
+,Punjab Kings,FALSE,6,Rajiv Gandhi International Stadium,2024,19-05-2024,Sunrisers Hyderabad,Abhishek Sharma,4,0,Hyderabad,Sunrisers Hyderabad,69,Punjab Kings,bat,1426307,League
+,Sunrisers Hyderabad,FALSE,6,Narendra Modi Stadium,2024,21-05-2024,Kolkata Knight Riders,MA Starc,8,0,Ahmedabad,Kolkata Knight Riders,,Sunrisers Hyderabad,bat,1426309,Qualifier 1
+,Royal Challengers Bengaluru,FALSE,6,Narendra Modi Stadium,2024,22-05-2024,Rajasthan Royals,R Ashwin,4,0,Ahmedabad,Rajasthan Royals,,Rajasthan Royals,field,1426310,Eliminator
+,Sunrisers Hyderabad,FALSE,6,MA Chidambaram Stadium,2024,24-05-2024,Rajasthan Royals,Shahbaz Ahmed,0,36,Chennai,Sunrisers Hyderabad,,Rajasthan Royals,field,1426311,Qualifier 2
+,Sunrisers Hyderabad,FALSE,6,MA Chidambaram Stadium,2024,26-05-2024,Kolkata Knight Riders,MA Starc,8,0,Chennai,Kolkata Knight Riders,,Sunrisers Hyderabad,bat,1426312,Final
