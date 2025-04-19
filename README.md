@@ -1,4 +1,7 @@
+* Performance Analysis
+  
 IPL 2024 Performance Analysis Project
+
 This project focuses on analyzing data from the 2024 Indian Premier League (IPL) season. Using SQL queries, we extract insights about team performance, player statistics, match outcomes, and more. The analysis is based on two key datasets: matches and deliveries.
 Project Overview
 Datasets
